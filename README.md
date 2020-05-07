@@ -1,7 +1,9 @@
 # ArtistAlbum
 How do we build and run it? 
-<b>mvn clean test spring-boot:run <b>
-
+<br>mvn clean test spring-boot:run <br>
+<b>Running version in openshift: <br>
+http://artistalbum-crafti.e4ff.pro-eu-west-1.openshiftapps.com
+<b>
 # What tools did you use?
 spring-boot <br>
 lombok - to have more readable and clean code<br>
